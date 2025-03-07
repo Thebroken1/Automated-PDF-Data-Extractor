@@ -1,0 +1,58 @@
+Funding Plan for SkillShot
+1. Overview of Funding Needs:
+SkillShot is a peer-to-peer learning platform designed to connect users seeking hands-on
+learning with local experts. The platform allows users to book workshops, attend live
+tutorials, and receive mentorship in real time. The platform is free for users but will generate
+revenue through advertisements placed by experts who wish to promote their services.
+To successfully develop, launch, and scale SkillShot, we estimate the following funding needs
+- Platform Development & Design:
+Estimated at €32,550 this will cover the cost of developing the website.
+- Marketing & Branding:
+To build brand awareness, engage users, and attract experts, we plan to allocate €13,950 for
+initial marketing campaigns, including digital ads and influencer partnerships.
+- Hosting & Maintenance:
+The estimated cost for platform hosting, domain registration, and ongoing maintenance is
+€4,650 annually.
+- Operational Costs:
+For initial salaries, legal fees, and miscellaneous operational costs, we anticipate €9,300.
+Total Funding Requirement:
+The total estimated funding required for the first year is €60,450.
+2. Funding Sources:
+To secure the necessary capital, we plan to pursue a combination of the following sources:
+- Self-Funding:
+Initial contributions from the founders, totaling €13,950. This will cover early development
+costs, branding, and initial user acquisition efforts.
+- Crowdfunding:
+We plan to launch a crowdfunding campaign targeting €23,250. This will help us establish
+brand awareness, acquire early users, and secure initial platform growth.
+- Angel Investors:
+We will seek angel investors to raise an additional €23,250. These funds will be used for
+platform scaling, team growth, and securing a larger market presence.
+3. Revenue Projections & Financial Strategy:
+Our revenue model focuses on advertising revenue from experts. SkillShot will provide a free
+service to users, while charging experts for ad placements. Revenue generation will occur
+through:
+- Advertising Revenue from Experts:
+Experts will pay a monthly fee of €93 to promote their services. We project onboarding 50
+experts in the first 6 months, which will generate €55,800 in annual revenue.
+As we grow and attract more experts, we expect to increase the number to 200 experts by
+the end of year one, which could generate up to €223,200 annually in ad revenue.
+- Freemium Model: The platform will remain free for users to drive adoption, with revenue
+coming from experts' paid ads.
+4. Budget Breakdown:
+Category Estimated Cost (€)
+Software Development €32,550
+Design (UI/UX) €9,300
+Marketing & Promotion €13,950
+Hosting & Platform Fees €4,650
+Salaries €9,300
+Miscellaneous €4,650
+Total €74,400
+5. Milestones & Funding Timeline:
+The following key milestones will guide our funding efforts:
+- Phase 1 (Months 1-3): Self-funding and initial development of the platform. Focus on
+building the core platform and initial marketing efforts.
+- Phase 2 (Months 4-6): Launch crowdfunding campaign with a target of €23,250 to enhance
+platform features and user acquisition.
+- Phase 3 (Months 7-12): Seek angel investment of €23,250 to scale the platform, onboard
+experts, and improve marketing strategies for wider reach.

@@ -32,6 +32,10 @@ for i, table in enumerate(all_tables):
 for i, table in enumerate(all_tables):
     print(f"Cleaned Table {i+1}:")
     print(table)
+    table.to_csv(f'table_{i+1}.csv', index = False)
     
-
 print(text)
+
+with open("text.txt","w") as f:
+    f.write(text)
+f.close()
