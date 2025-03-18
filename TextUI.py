@@ -1,6 +1,6 @@
-from TextExtractorV import text_extractor as tee
-from TableExtractorV import table_extractor as tae
-from OcrV import image_extractor as ie
+from TextExtractor import text_extractor as tee
+from TableExtractor import table_extractor as tae
+from Ocr import image_extractor as ie
 
 while(True):
     user_option = int(input(f"\n1.Create Text File \n2.Create CSV file \n3.Create Image File \n4.Create All \n5.Exit \nInput: "))

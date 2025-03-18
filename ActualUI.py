@@ -2,9 +2,9 @@ import tkinter as tk
 from tkinter import *
 from tkinter import ttk
 from tkinter import filedialog
-from TextExtractorV import text_extractor as tee
-from TableExtractorV import table_extractor as tae
-from OcrV import image_extractor as ie
+from TextExtractor import text_extractor as tee
+from TableExtractor import table_extractor as tae
+from Ocr import image_extractor as ie
 
 root = tk.Tk()
 file_path = ""
