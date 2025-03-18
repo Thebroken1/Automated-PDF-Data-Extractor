@@ -1,9 +1,10 @@
 import fitz  # PyMuPDF
 
-pdf_path = "Internal Document Final.pdf"
-doc = fitz.open(pdf_path)
 
-def img(doc):
+
+
+def img(pdf_path):
+    doc = fitz.open(pdf_path)
     for i, page in enumerate(doc):
         for img_index, img in enumerate(page.get_images(full=True)):
             xref = img[0]  # Image reference ID
