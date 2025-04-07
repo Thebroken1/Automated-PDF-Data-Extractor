@@ -1,6 +1,5 @@
 # Automated-PDF-Data-Extractor
-Zubair
-Vaishnav
+By: Vaishnav And Zubair
 
 This Project Aims to Create a Basic Automated PDF Extractor Using:
 
